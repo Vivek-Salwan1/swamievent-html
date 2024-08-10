@@ -169,10 +169,11 @@
     color: var(--bs-dark) !important;
 }
 
-.navbar-light .navbar-nav .nav-link:hover,
-.navbar-light .navbar-nav .nav-link.active {
-    color: var(--bs-red) !important;
+
+.navbar-light .navbar-nav .nav-link.active{
+    color: var(--bs-red);
 }
+
 
 .navbar-light .navbar-brand h1 {
     color: var(--bs-white);
